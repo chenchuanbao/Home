@@ -1,4 +1,27 @@
-# myhome
+# 个人博客
+
+### 项目内容：
+
+1. 主页
+2. 登入、注册
+3. 文章列表
+4. 文章详情页
+5. 后端界面，内容发布
+更多.....努力更新中
+
+### 项目使用框架
+1. vue_cli
+2. mongoose
+3. mongodb
+4. express
+5. ElementUi
+6. Markdown及渲染
+7. axios
+更多.....努力更新中
+
+### 项目示例
+
+
 
 > A Vue.js project
 
