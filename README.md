@@ -20,7 +20,7 @@
 更多.....努力更新中
 
 ### 项目示例
-
+![](https://github.com/Chencb1991/Home/blob/master/static/1.gif)
 
 
 > A Vue.js project
