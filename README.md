@@ -2,32 +2,32 @@
 
 ### 项目内容：
 
-1. 主页
-2. 登入、注册
-3. 文章列表
-4. 文章详情页
-5. 后端界面，内容发布
+* 主页
+* 登入、注册
+* 文章列表
+* 文章详情页
+* 后端界面，内容发布
 更多.....努力更新中
 
 ### 项目使用框架及插件
-1. vue_cli
-2. mongoose
-3. mongodb
-4. express
-5. ElementUi
-6. Markdown-mavon-editor-marked
-7. axios
-8. vue-particles
-9. nprogress
-10.vue-wechat-title
-11.阿里巴巴矢量图标
+* vue_cli
+* mongoose
+* mongodb
+* express
+* ElementUi
+* Markdown-mavon-editor-marked
+* axios
+* vue-particles
+* nprogress
+* vue-wechat-title
+* 阿里巴巴矢量图标
 更多.....努力更新中
 
 ### 服务器配置(阿里云)
-1. centos系统安装
-2. 安装node.js,安装forever保持node持续运行。
-3. 安装mongodb,设置持续运行。
-4. 安装nginx，设置反向代理
+* centos系统安装
+* 安装node.js,安装forever保持node持续运行。
+* 安装mongodb,设置持续运行。
+* 安装nginx，设置反向代理
 更多.....努力更新中
 
 ### 项目示例
