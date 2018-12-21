@@ -22,7 +22,7 @@
 10.vue-wechat-title
 更多.....努力更新中
 
-### 服务器配置
+### 服务器配置(阿里云)
 1. centos系统安装
 2. 安装node.js
 3. 安装mongodb
