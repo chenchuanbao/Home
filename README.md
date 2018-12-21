@@ -25,8 +25,8 @@
 
 ### 服务器配置(阿里云)
 1. centos系统安装
-2. 安装node.js
-3. 安装mongodb
+2. 安装node.js,安装forever保持node持续运行。
+3. 安装mongodb,设置持续运行。
 4. 安装nginx，设置反向代理
 更多.....努力更新中
 
