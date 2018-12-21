@@ -82,11 +82,7 @@ export default {
 					          type: 'success'
 					        });
 					        sessionStorage.setItem("blogkey", this.form.uname);
-					        if(this.form.uname=='chenchuanbao'){
-  								this.$router.push('/manage');
-					        }else{
-					        	this.$router.push('/article');
-					        }
+					        this.$router.push('/article');
 		                    
 		                   }else{
 		                   	  this.$message.error('不存在的账号和密码');
