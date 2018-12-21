@@ -20,6 +20,7 @@
 8. vue-particles
 9. nprogress
 10.vue-wechat-title
+11.阿里巴巴矢量图标
 更多.....努力更新中
 
 ### 服务器配置(阿里云)
