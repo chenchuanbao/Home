@@ -45,11 +45,7 @@ export default {
       initials(){
       	const blogkey = sessionStorage.getItem("blogkey"); 
       	if(blogkey){
-      		if(blogkey=='chenchuanbao'){
-				this.$router.push('/manage');
-		        }else{
-		        	this.$router.push('/article');
-		        }
+      	this.$router.push('/article');
       	}else{
       		this.$router.push('/login');
       	}
